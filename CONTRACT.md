@@ -38,26 +38,26 @@ Day 2: Relational Queries
 
 Day 3: Install Postgres and Complete Tutorials with psql
 
- - [] Install Homebrew by following instructions listed here
- - [] Install Postgres by following instructions listed here
- - [] Learn the psql command line tool by working through the following tutorials
- - [] complete the tutorial for createdb here
- - [] complete the tutorial for selecting the database here
- - [] complete the tutorial for dropping the database here
- - [] complete the tutorial for create table here
- - [] complete the tutorial for drop table here
- - [] complete the tutorial for schema here
- - [] complete the tutorial for insert here
- - [] complete the tutorial for select here
- - [] complete the tutorial for expressions here
- - [] complete the tutorial for where clause here
- - [] complete the tutorial for and and or operators here
- - [] complete the tutorial for update queries here
- - [] complete the tutorial for delete queries here
- - [] complete the tutorial for the like clause here
- - [] complete the tutorial for the limit clause here
- - [] complete the tutorial for the order by clause here
- - [] complete the tutorial for the group by clause here
+ - [x] Install Homebrew by following instructions listed here
+ - [x] Install Postgres by following instructions listed here
+ - [x] Learn the psql command line tool by working through the following tutorials
+ - [x] complete the tutorial for createdb here
+ - [x] complete the tutorial for selecting the database here
+ - [x] complete the tutorial for dropping the database here
+ - [x] complete the tutorial for create table here
+ - [x] complete the tutorial for drop table here
+ - [x] complete the tutorial for schema here
+ - [x] complete the tutorial for insert here
+ - [x] complete the tutorial for select here
+ - [x] complete the tutorial for expressions here
+ - [x] complete the tutorial for where clause here
+ - [x] complete the tutorial for and and or operators here
+ - [x] complete the tutorial for update queries here
+ - [x] complete the tutorial for delete queries here
+ - [x] complete the tutorial for the like clause here
+ - [x] complete the tutorial for the limit clause here
+ - [x] complete the tutorial for the order by clause here
+ - [x] complete the tutorial for the group by clause here
 
 Day 4: Mini Project & Exercises
 
