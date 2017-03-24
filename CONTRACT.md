@@ -61,7 +61,7 @@ Day 3: Install Postgres and Complete Tutorials with psql
 
 Day 4: Mini Project & Exercises
 
- - [] Exercises 1-13 in the sql-exercises repo are complete and written to the appropriate file:
+ - [x] Exercises 1-13 in the sql-exercises repo are complete and written to the appropriate file:
  - [x] sql/01-create-table-student.sql
  - [x] sql/02-create-table-friend.sql
  - [x] sql/03-create-table-like.sql
@@ -78,7 +78,7 @@ Day 4: Mini Project & Exercises
 
 Day 5: Exercises on SQL Bolt
 
- - [] Complete the SQL Bolt tutorial
+ - [x] Complete the SQL Bolt tutorial
 
 Stretch
 
