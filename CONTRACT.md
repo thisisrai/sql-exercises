@@ -62,17 +62,17 @@ Day 3: Install Postgres and Complete Tutorials with psql
 Day 4: Mini Project & Exercises
 
  - [] Exercises 1-13 in the sql-exercises repo are complete and written to the appropriate file:
- - [] sql/01-create-table-student.sql
- - [] sql/02-create-table-friend.sql
- - [] sql/03-create-table-like.sql
- - [] sql/04-load-table-learner.sql
- - [] sql/05-load-table-friend.sql
- - [] sql/06-load-table-like.sql
- - [] sql/07-query-friends-gabriel.sql
- - [] sql/08-query-likes-grade-two-or-more.sql
- - [] sql/09-mutual-likes.sql
- - [] sql/10-not-liked.sql
- - [] sql/11-liked-but-does-not-like.sql
+ - [x] sql/01-create-table-student.sql
+ - [x] sql/02-create-table-friend.sql
+ - [x] sql/03-create-table-like.sql
+ - [x] sql/04-load-table-learner.sql
+ - [x] sql/05-load-table-friend.sql
+ - [x] sql/06-load-table-like.sql
+ - [x] sql/07-query-friends-gabriel.sql
+ - [x] sql/08-query-likes-grade-two-or-more.sql
+ - [x] sql/09-mutual-likes.sql
+ - [x] sql/10-not-liked.sql
+ - [x] sql/11-liked-but-does-not-like.sql
  - [] sql/12-find-friends-in-common.sql
  - [] sql/13-popular-students.sql
 
