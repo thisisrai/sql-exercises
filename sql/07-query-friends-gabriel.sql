@@ -18,12 +18,9 @@ SELECT
 from
   student.student
 WHERE id IN (
-  SELECT
-    id1
-  FROM
-    student.friends
-  WHERE
-    id2 IN (SELECT id FROM student.student WHERE name = 'Gabriel')) OR
-    id IN (SELECT id2 FROM student.friends WHERE id1 IN (
-      SELECT id FROM student.student WHERE name = 'Gabriel')
+  SELECT id1 FROM student.friends WHERE id2 IN (
+    SELECT id FROM student.student WHERE name = 'Gabriel')) OR
+id IN (
+  SELECT id2 FROM student.friends WHERE id1 IN (
+    SELECT id FROM student.student WHERE name = 'Gabriel')
     );

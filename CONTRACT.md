@@ -73,8 +73,8 @@ Day 4: Mini Project & Exercises
  - [x] sql/09-mutual-likes.sql
  - [x] sql/10-not-liked.sql
  - [x] sql/11-liked-but-does-not-like.sql
- - [] sql/12-find-friends-in-common.sql
- - [] sql/13-popular-students.sql
+ - [x] sql/12-find-friends-in-common.sql
+ - [x] sql/13-popular-students.sql
 
 Day 5: Exercises on SQL Bolt
 
